@@ -1,0 +1,13 @@
+.action {
+  padding: 40px 0;
+  background: #f2f2f2;
+}
+
+.action-image {
+  width: 400px;
+  height: auto;
+}
+
+.action p{
+	padding: 8px;
+}
